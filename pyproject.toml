@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "PROJECT_NAME"
+name = "ff-ad5m-backlight"
 version = "v0.1"
 dependencies = []
 requires-python = ">= 3.8"
@@ -11,7 +11,6 @@ authors = [ {name = "Tristan Timmermans", email = "none@yourbusiness.nowhere"} ]
 maintainers = [ {name = "Tristan Timmermans", email = "none@yourbusiness.nowhere"} ] 
 description = "Backlight library for FlashForge Adventurer 5M useing IOCTL."
 readme = "README.md"
-license= = "LICENSE.md"
 keywords = ["flashforge", "adventurer", "5m", "ad5m", "backlight", "adm5"]
 
 [project.scripts]
